@@ -1,6 +1,6 @@
 # Moin, ich bin Henry.
 
-This is the secondary account for **[jumpstone](https://github.com/jumpstone)**. 
+This is the secondary account for **[@JumpStone](https://github.com/jumpstone)**. 
 I use this profile primarily as a security backup and emergency administrator for my organizations.
 
 ### Main Profile & Contact
