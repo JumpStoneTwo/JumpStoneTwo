@@ -1,33 +1,50 @@
-# Moin, ich bin Henry.
+# Hi, I'm Henry.
 
-This is the secondary account for **[@JumpStone](https://github.com/jumpstone)**. 
-I use this profile primarily as a security backup and emergency administrator for my organizations.
+### Software developer and hardware enthusiast from Germany
 
-### Main Profile & Contact
 <p>
-<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/Main_Account-jumpstone-black?style=for-the-badge&logo=github" alt="Main GitHub"></a>
+<a href="https://github.com/jumpstone"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://codeberg.org/jumpstone"><img src="https://img.shields.io/badge/Codeberg-darkblue?style=for-the-badge&logo=codeberg" alt="GitHub"></a>
 <a href="https://jumpstone4477.de/"><img src="https://img.shields.io/badge/Website-JumpStone4477.de-green?style=for-the-badge" alt="Website"></a>
 <a href="https://discord.com/users/1008346032230387752"><img src="https://img.shields.io/badge/Discord-%40JumpStone4477-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
----
-
-### Purpose of this Account
-* **Redundancy:** Ensuring access to organizations if my main account is inaccessible.
+**This is the secondary account for **[@JumpStone](https://github.com/jumpstone)**.
+I use this profile primarily as a security backup and emergency administrator for my organizations.**
 
 ---
 
-**Main Account Stats**
-*(Tracking activity from @jumpstone)*
+## About:
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
+I am a self-taught developer and sysadmin currently in secondary school. While others are just consuming content, I prefer building the infrastructure behind it. My focus lies in automating processes and maintaining secure, scalable HomeLab systems.
 
-![Programming Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JumpStone&layout=compact&theme=dark)
+**My Story:**
+
+* **The Spark:** It all started with a fascination for hardware and the question of how to not just use PC systems, but to configure and optimize them from the ground up.
+* **From Gaming to Admin:** Building and technically leading a Minecraft network was my "baptism by fire" in terms of community management and server stability.
+* **Deep Dive:** Standard software soon wasn't enough. I dove into the world of **Linux (Debian, Fedora)**, **Docker virtualization**, and professional **monitoring with Grafana & Prometheus**.
+* **Current Mission:** My biggest achievement so far has been winning **1st place in the "Jugend forscht" regional round (2026)**. Currently, I am tinkering with custom hardware like my Python-based travel router and preparing for the state-level competition.
+
+**Why I Do What I Do:**
+
+I love solving complex problems that others don't even see.  My goal is to understand, bend, and improve technology.
 
 ---
 
-<p align="center">
-  <a href="https://jumpstone4477.de/code-of-conduct">
-    <img src="https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square" alt="Code of Conduct">
-  </a>
-</p>
+## Featured Projects
+
+| Projekt        | Beschreibung                                                         | Tech Tags       | Links                                                                                                                                                                                                                   |
+|:---------------|:---------------------------------------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **JS Gaming**  | Development of modpacks, resource packs, and more.                   | `Java` `Design` | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/gaming) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)            |
+| **Akku-Craft** | Development of a modular power bank that can be expanded as desired. | `BMS` `Arduino` | [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/akku-craft) [![Static Badge](https://img.shields.io/badge/Wiki-black?logo=github)](https://github.com/akku-craft/wiki/wiki) |
+
+## Other Projects
+
+| Projekt            | Beschreibung                                                                       | Tech Tags                         | Links                                                                                                                                                                                                     |
+|:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link Shortener** | Private link shortener build with JavaScript and deployed with Cloudflare Workers. | `JavaScript` `Cloudflare Workers` | [![Static Badge](https://img.shields.io/badge/Repository-black?logo=github)](https://github.com/JumpStone/link-shortener)                                                                                 |
+| **DevRead.me**     | Automatic README.md generator for developers.                                      | `Next.js` `AI`                    | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/devreadme) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devread-me) |
+
+---
+
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://jumpstone4477.de/code-of-conduct)
