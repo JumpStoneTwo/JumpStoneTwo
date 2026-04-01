@@ -43,7 +43,6 @@ I love solving complex problems that others don't even see.  My goal is to under
 | Projekt            | Beschreibung                                                                       | Tech Tags                         | Links                                                                                                                                                                                                     |
 |:-------------------|:-----------------------------------------------------------------------------------|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link Shortener** | Private link shortener build with JavaScript and deployed with Cloudflare Workers. | `JavaScript` `Cloudflare Workers` | [![Static Badge](https://img.shields.io/badge/Repository-black?logo=github)](https://github.com/JumpStone/link-shortener)                                                                                 |
-| **DevRead.me**     | Automatic README.md generator for developers.                                      | `Next.js` `AI`                    | [![Static Badge](https://img.shields.io/badge/Website-black)](https://jumpstone4477.de/devreadme) [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/devread-me) |
 
 ---
 
