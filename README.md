@@ -50,7 +50,7 @@
 
 ---
 
-**Stats**
+**Stats (tracking from my main account**
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JumpStone&show_icons=true&theme=dark)
 
